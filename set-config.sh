@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-CONFIG_DIR=~/.config/discord
+CONFIG_DIR=~/.config/discordcanary
 CONFIG_FILE="$CONFIG_DIR"/settings.json
 
 mkdir -p "$CONFIG_DIR"
