@@ -13,7 +13,6 @@ check_dependency() {
 check_dependency jq
 
 echo "All dependencies are installed."
-echo "Work in progress..."
 
 CONFIG_DIR=~/.config/discord
 CONFIG_FILE="$CONFIG_DIR"/settings.json
