@@ -12,16 +12,16 @@ Also available in:
  * Bash
  * [jq](https://github.com/stedolan/jq)
 
-## Installation
-### The script is available on the AUR:
-```sh
-paru -S discord-update-skip-git
-```
-
 ## Usage
 To patch your Discord configuration, you can simply run the script
 ```sh
 discord-update-skip
+```
+
+## Installation
+### Arch Linux
+```sh
+sudo pacman -S base-devel && makepkg -si
 ```
 
 ### On any other Linux based distro:
